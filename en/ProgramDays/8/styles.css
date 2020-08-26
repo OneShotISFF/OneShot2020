@@ -1,0 +1,617 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1323px;
+	 height: 2307px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Rectangle19copy 
+{ 
+	 left: -3px; 
+	 top: 932px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 195px;
+	 z-index:1;
+} 
+
+ #SHORTFILMS 
+{ 
+	 left: 20px; 
+	 top: 938px; 
+	 position: absolute; 
+	 width: 334px;
+	 height: 36px;
+	 z-index:2;
+} 
+
+ #layer_19002000 
+{ 
+	 left: 664px; 
+	 top: 943px; 
+	 position: absolute; 
+	 width: 282px;
+	 height: 34px;
+	 z-index:3;
+} 
+
+ #Rectangle20 
+{ 
+	 left: 644px; 
+	 top: 924px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 71px;
+	 z-index:4;
+} 
+
+ #Shape2 
+{ 
+	 left: 18px; 
+	 top: 1030px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 96px;
+	 z-index:5;
+} 
+
+ #DISCUSSION 
+{ 
+	 left: 418px; 
+	 top: 1553px; 
+	 position: absolute; 
+	 width: 156px;
+	 height: 39px;
+	 z-index:6;
+} 
+
+ #Shape2_0 
+{ 
+	 left: 342px; 
+	 top: 1030px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 96px;
+	 z-index:7;
+} 
+
+ #Shape2_1 
+{ 
+	 left: 667px; 
+	 top: 1030px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 96px;
+	 z-index:8;
+} 
+
+ #Rectangle19copy_0 
+{ 
+	 left: -3px; 
+	 top: 1216px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 449px;
+	 z-index:9;
+} 
+
+ #ONEMINUTEONESHOT 
+{ 
+	 left: 22px; 
+	 top: 1221px; 
+	 position: absolute; 
+	 width: 599px;
+	 height: 36px;
+	 z-index:10;
+} 
+
+ #layer_20002100 
+{ 
+	 left: 662px; 
+	 top: 1224px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 34px;
+	 z-index:11;
+} 
+
+ #Rectangle20_0 
+{ 
+	 left: 644px; 
+	 top: 1205px; 
+	 position: absolute; 
+	 width: 310px;
+	 height: 71px;
+	 z-index:12;
+} 
+
+ #layer_21002200 
+{ 
+	 left: 671px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 34px;
+	 z-index:13;
+} 
+
+ #Rectangle20copy 
+{ 
+	 left: 649px; 
+	 top: 1443px; 
+	 position: absolute; 
+	 width: 309px;
+	 height: 71px;
+	 z-index:14;
+} 
+
+ #Rectangle19 
+{ 
+	 left: 259px; 
+	 top: 1328px; 
+	 position: absolute; 
+	 width: 462px;
+	 height: 42px;
+	 z-index:15;
+} 
+
+ #ONEMINUTEONESHOT2020 
+{ 
+	 left: 281px; 
+	 top: 1339px; 
+	 position: absolute; 
+	 width: 423px;
+	 height: 21px;
+	 z-index:16;
+} 
+
+ #WithJury 
+{ 
+	 left: 430px; 
+	 top: 1615px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 16px;
+	 z-index:17;
+} 
+
+ #Shape2_2 
+{ 
+	 left: 338px; 
+	 top: 1661px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 4px;
+	 z-index:18;
+} 
+
+ #Rectangle19copy_1 
+{ 
+	 left: -5px; 
+	 top: 620px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 193px;
+	 z-index:19;
+} 
+
+ #LECTURE 
+{ 
+	 left: 18px; 
+	 top: 626px; 
+	 position: absolute; 
+	 width: 224px;
+	 height: 36px;
+	 z-index:20;
+} 
+
+ #layer_18001900 
+{ 
+	 left: 667px; 
+	 top: 632px; 
+	 position: absolute; 
+	 width: 270px;
+	 height: 34px;
+	 z-index:21;
+} 
+
+ #Rectangle20_1 
+{ 
+	 left: 643px; 
+	 top: 612px; 
+	 position: absolute; 
+	 width: 311px;
+	 height: 71px;
+	 z-index:22;
+} 
+
+ #SEDAGRIGORYAN 
+{ 
+	 left: 367px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 203px;
+	 height: 17px;
+	 z-index:23;
+} 
+
+ #TIMEANDCINEMATOGRAPH 
+{ 
+	 left: 214px; 
+	 top: 718px; 
+	 position: absolute; 
+	 width: 532px;
+	 height: 39px;
+	 z-index:24;
+} 
+
+ #Shape2_3 
+{ 
+	 left: 338px; 
+	 top: 812px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 4px;
+	 z-index:25;
+} 
+
+ #belg2 
+{ 
+	 left: 668px; 
+	 top: 1080px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 22px;
+	 z-index:26;
+} 
+
+ #franc2 
+{ 
+	 left: 342px; 
+	 top: 1080px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 22px;
+	 z-index:27;
+} 
+
+ #USA 
+{ 
+	 left: 20px; 
+	 top: 1080px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 22px;
+	 z-index:28;
+} 
+
+ #SEPTEMBER8 
+{ 
+	 left: 0px; 
+	 top: 365px; 
+	 position: absolute; 
+	 width: 952px;
+	 height: 185px;
+	 z-index:29;
+} 
+
+ #oneshotcopy3 
+{ 
+	 left: -4px; 
+	 top: 1759px; 
+	 position: absolute; 
+	 width: 1330px;
+	 height: 551px;
+	 z-index:30;
+} 
+
+ #STATUTE3 
+{ 
+	 left: 1299px; 
+	 top: 2061px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 141px;
+	 z-index:31;
+} 
+
+ #layer_3 
+{ 
+	 left: 525px; 
+	 top: 1859px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:32;
+} 
+
+ #layer_14887640061543238901 
+{ 
+	 left: 1054px; 
+	 top: 1971px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:33;
+} 
+
+ #ig3 
+{ 
+	 left: 995px; 
+	 top: 1971px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:34;
+} 
+
+ #facebookblacksocialb 
+{ 
+	 left: 937px; 
+	 top: 1971px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:35;
+} 
+
+ #Rectangle243 
+{ 
+	 left: 28px; 
+	 top: 1822px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 199px;
+	 z-index:36;
+} 
+
+ #Rectangle253 
+{ 
+	 left: 937px; 
+	 top: 2059px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 63px;
+	 z-index:37;
+} 
+
+ #Layer15053 
+{ 
+	 left: 956px; 
+	 top: 2073px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 36px;
+	 z-index:38;
+} 
+
+ #DONATE3 
+{ 
+	 left: 1019px; 
+	 top: 2079px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 23px;
+	 z-index:39;
+} 
+
+ #HOWTOSUBMIT3 
+{ 
+	 left: 931px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 66px;
+	 z-index:40;
+} 
+
+ #Rectangle263 
+{ 
+	 left: 1158px; 
+	 top: 2250px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 60px;
+	 z-index:41;
+} 
+
+ #KUNSTTECH20203 
+{ 
+	 left: 1195px; 
+	 top: 2265px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 8px;
+	 z-index:42;
+} 
+
+ #layer_3_0 
+{ 
+	 left: 1183px; 
+	 top: 2265px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 8px;
+	 z-index:43;
+} 
+
+ #ARMENIA3 
+{ 
+	 left: 24px; 
+	 top: 2061px; 
+	 position: absolute; 
+	 width: 633px;
+	 height: 211px;
+	 z-index:44;
+} 
+
+ #LOGO4 
+{ 
+	 left: 21px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 47px;
+	 z-index:45;
+} 
+
+ #sponsors4 
+{ 
+	 left: 871px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 11px;
+	 z-index:46;
+} 
+
+ #statute4 
+{ 
+	 left: 663px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 10px;
+	 z-index:47;
+} 
+
+ #Rectangle284 
+{ 
+	 left: 724px; 
+	 top: 65px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:48;
+} 
+
+ #press4 
+{ 
+	 left: 957px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 11px;
+	 z-index:49;
+} 
+
+ #aboutus4 
+{ 
+	 left: 1016px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 12px;
+	 z-index:50;
+} 
+
+ #archive4 
+{ 
+	 left: 1100px; 
+	 top: 75px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 12px;
+	 z-index:51;
+} 
+
+ #Shape14 
+{ 
+	 left: 1003px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:52;
+} 
+
+ #Shape1copy44 
+{ 
+	 left: 858px; 
+	 top: 46px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:53;
+} 
+
+ #Shape1copy54 
+{ 
+	 left: 724px; 
+	 top: 46px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:54;
+} 
+
+ #Shape1copy4 
+{ 
+	 left: 944px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:55;
+} 
+
+ #Shape1copy24 
+{ 
+	 left: 1087px; 
+	 top: 45px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:56;
+} 
+
+ #Shape1copy34 
+{ 
+	 left: 1159px; 
+	 top: 45px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:57;
+} 
+
+ #RoundedRectangle14 
+{ 
+	 left: 1210px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 20px;
+	 z-index:58;
+} 
+
+ #ARM4 
+{ 
+	 left: 1219px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 13px;
+	 z-index:59;
+} 
+
+ #salesexhibition4 
+{ 
+	 left: 737px; 
+	 top: 75px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 11px;
+	 z-index:60;
+} 

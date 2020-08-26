@@ -1,0 +1,457 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1313px;
+	 height: 1967px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1313px;
+	 height: 1967px;
+	 z-index:1;
+} 
+
+ #Rectangle27 
+{ 
+	 left: 179px; 
+	 top: 465px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 25px;
+	 z-index:2;
+} 
+
+ #Rectangle27copy 
+{ 
+	 left: 179px; 
+	 top: 541px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 26px;
+	 z-index:3;
+} 
+
+ #Rectangle27copy2 
+{ 
+	 left: 179px; 
+	 top: 618px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 26px;
+	 z-index:4;
+} 
+
+ #Rectangle19 
+{ 
+	 left: 267px; 
+	 top: 448px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 60px;
+	 z-index:5;
+} 
+
+ #LECTURES 
+{ 
+	 left: 287px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 23px;
+	 z-index:6;
+} 
+
+ #Rectangle19_0 
+{ 
+	 left: 267px; 
+	 top: 525px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:7;
+} 
+
+ #CLOSEUP 
+{ 
+	 left: 286px; 
+	 top: 544px; 
+	 position: absolute; 
+	 width: 156px;
+	 height: 23px;
+	 z-index:8;
+} 
+
+ #Rectangle19_1 
+{ 
+	 left: 267px; 
+	 top: 603px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 58px;
+	 z-index:9;
+} 
+
+ #SALESEXHIBITION 
+{ 
+	 left: 285px; 
+	 top: 621px; 
+	 position: absolute; 
+	 width: 287px;
+	 height: 23px;
+	 z-index:10;
+} 
+
+ #SPECIALEVENTS 
+{ 
+	 left: 186px; 
+	 top: 232px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 104px;
+	 z-index:11;
+} 
+
+ #Rectangle18copy4 
+{ 
+	 left: 179px; 
+	 top: 359px; 
+	 position: absolute; 
+	 width: 1115px;
+	 height: 34px;
+	 z-index:12;
+} 
+
+ #oneshotcopy5 
+{ 
+	 left: -18px; 
+	 top: 1416px; 
+	 position: absolute; 
+	 width: 1335px;
+	 height: 551px;
+	 z-index:13;
+} 
+
+ #STATUTE5 
+{ 
+	 left: 1291px; 
+	 top: 1718px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 141px;
+	 z-index:14;
+} 
+
+ #layer_5 
+{ 
+	 left: 517px; 
+	 top: 1516px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:15;
+} 
+
+ #layer_14887640061543238901 
+{ 
+	 left: 1046px; 
+	 top: 1628px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:16;
+} 
+
+ #ig5 
+{ 
+	 left: 987px; 
+	 top: 1628px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:17;
+} 
+
+ #facebookblacksocialb 
+{ 
+	 left: 929px; 
+	 top: 1628px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:18;
+} 
+
+ #Rectangle245 
+{ 
+	 left: 20px; 
+	 top: 1479px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 199px;
+	 z-index:19;
+} 
+
+ #Rectangle255 
+{ 
+	 left: 929px; 
+	 top: 1716px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 63px;
+	 z-index:20;
+} 
+
+ #Layer15055 
+{ 
+	 left: 948px; 
+	 top: 1730px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 36px;
+	 z-index:21;
+} 
+
+ #DONATE5 
+{ 
+	 left: 1011px; 
+	 top: 1736px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 23px;
+	 z-index:22;
+} 
+
+ #Rectangle25copy5 
+{ 
+	 left: 930px; 
+	 top: 1807px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 53px;
+	 z-index:23;
+} 
+
+ #HOWTOSUBMIT5 
+{ 
+	 left: 941px; 
+	 top: 1825px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 19px;
+	 z-index:24;
+} 
+
+ #Rectangle265 
+{ 
+	 left: 1150px; 
+	 top: 1907px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 60px;
+	 z-index:25;
+} 
+
+ #KUNSTTECH20205 
+{ 
+	 left: 1187px; 
+	 top: 1922px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 8px;
+	 z-index:26;
+} 
+
+ #layer_5_0 
+{ 
+	 left: 1175px; 
+	 top: 1922px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 8px;
+	 z-index:27;
+} 
+
+ #ARMENIA5 
+{ 
+	 left: 16px; 
+	 top: 1718px; 
+	 position: absolute; 
+	 width: 633px;
+	 height: 211px;
+	 z-index:28;
+} 
+
+ #LOGO 
+{ 
+	 left: 35px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 47px;
+	 z-index:29;
+} 
+
+ #sponsors9 
+{ 
+	 left: 881px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 11px;
+	 z-index:30;
+} 
+
+ #statute9 
+{ 
+	 left: 673px; 
+	 top: 36px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 10px;
+	 z-index:31;
+} 
+
+ #Rectangle289 
+{ 
+	 left: 734px; 
+	 top: 52px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:32;
+} 
+
+ #press9 
+{ 
+	 left: 967px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 11px;
+	 z-index:33;
+} 
+
+ #aboutus9 
+{ 
+	 left: 1026px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 12px;
+	 z-index:34;
+} 
+
+ #archive9 
+{ 
+	 left: 1110px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 12px;
+	 z-index:35;
+} 
+
+ #Shape19 
+{ 
+	 left: 1013px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:36;
+} 
+
+ #Shape1copy49 
+{ 
+	 left: 868px; 
+	 top: 33px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:37;
+} 
+
+ #Shape1copy59 
+{ 
+	 left: 734px; 
+	 top: 33px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:38;
+} 
+
+ #Shape1copy9 
+{ 
+	 left: 954px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:39;
+} 
+
+ #Shape1copy29 
+{ 
+	 left: 1097px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:40;
+} 
+
+ #Shape1copy39 
+{ 
+	 left: 1169px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:41;
+} 
+
+ #RoundedRectangle19 
+{ 
+	 left: 1220px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 20px;
+	 z-index:42;
+} 
+
+ #ARM9 
+{ 
+	 left: 1229px; 
+	 top: 48px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 13px;
+	 z-index:43;
+} 
+
+ #salesexhibition9 
+{ 
+	 left: 747px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 11px;
+	 z-index:44;
+} 

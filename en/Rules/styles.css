@@ -1,0 +1,517 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1335px;
+	 height: 3550px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #STATUTE 
+{ 
+	 left: 209px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 292px;
+	 height: 47px;
+	 z-index:1;
+} 
+
+ #Rectangle18 
+{ 
+	 left: 214px; 
+	 top: 340px; 
+	 position: absolute; 
+	 width: 467px;
+	 height: 42px;
+	 z-index:2;
+} 
+
+ #NOMINATIONS 
+{ 
+	 left: 354px; 
+	 top: 349px; 
+	 position: absolute; 
+	 width: 309px;
+	 height: 24px;
+	 z-index:3;
+} 
+
+ #Rectangle18copy2 
+{ 
+	 left: 214px; 
+	 top: 1346px; 
+	 position: absolute; 
+	 width: 499px;
+	 height: 42px;
+	 z-index:4;
+} 
+
+ #SPECIALPROGRAM 
+{ 
+	 left: 287px; 
+	 top: 1356px; 
+	 position: absolute; 
+	 width: 415px;
+	 height: 24px;
+	 z-index:5;
+} 
+
+ #Rectangle18copy3 
+{ 
+	 left: 214px; 
+	 top: 2024px; 
+	 position: absolute; 
+	 width: 499px;
+	 height: 42px;
+	 z-index:6;
+} 
+
+ #AWARDS 
+{ 
+	 left: 515px; 
+	 top: 2033px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 24px;
+	 z-index:7;
+} 
+
+ #ONEMINUTEONESHOT1The 
+{ 
+	 left: 213px; 
+	 top: 535px; 
+	 position: absolute; 
+	 width: 884px;
+	 height: 245px;
+	 z-index:8;
+} 
+
+ #SHORTFILMS1Upto30min 
+{ 
+	 left: 213px; 
+	 top: 827px; 
+	 position: absolute; 
+	 width: 380px;
+	 height: 91px;
+	 z-index:9;
+} 
+
+ #CINEMAWITHOUTBORDERS 
+{ 
+	 left: 213px; 
+	 top: 972px; 
+	 position: absolute; 
+	 width: 777px;
+	 height: 113px;
+	 z-index:10;
+} 
+
+ #SUBMISSIONRULES1Onem 
+{ 
+	 left: 213px; 
+	 top: 1510px; 
+	 position: absolute; 
+	 width: 884px;
+	 height: 201px;
+	 z-index:11;
+} 
+
+ #ADJUDICATION1Festiva 
+{ 
+	 left: 213px; 
+	 top: 1787px; 
+	 position: absolute; 
+	 width: 888px;
+	 height: 135px;
+	 z-index:12;
+} 
+
+ #MAINJURYBESTSHOTSymb 
+{ 
+	 left: 221px; 
+	 top: 2168px; 
+	 position: absolute; 
+	 width: 559px;
+	 height: 135px;
+	 z-index:13;
+} 
+
+ #SHORTFILMSJURYBESTFI 
+{ 
+	 left: 220px; 
+	 top: 2379px; 
+	 position: absolute; 
+	 width: 718px;
+	 height: 135px;
+	 z-index:14;
+} 
+
+ #CINEMAWITHOUTBORDERS_0 
+{ 
+	 left: 220px; 
+	 top: 2602px; 
+	 position: absolute; 
+	 width: 762px;
+	 height: 113px;
+	 z-index:15;
+} 
+
+ #HONORABLEPRIZESymbol 
+{ 
+	 left: 220px; 
+	 top: 2774px; 
+	 position: absolute; 
+	 width: 737px;
+	 height: 69px;
+	 z-index:16;
+} 
+
+ #Individualsproductio 
+{ 
+	 left: 215px; 
+	 top: 1413px; 
+	 position: absolute; 
+	 width: 782px;
+	 height: 17px;
+	 z-index:17;
+} 
+
+ #ZEROBUDGETfilmproduc 
+{ 
+	 left: 213px; 
+	 top: 1166px; 
+	 position: absolute; 
+	 width: 626px;
+	 height: 30px;
+	 z-index:18;
+} 
+
+ #oneshotcopy5 
+{ 
+	 left: 0px; 
+	 top: 2999px; 
+	 position: absolute; 
+	 width: 1335px;
+	 height: 551px;
+	 z-index:19;
+} 
+
+ #STATUTE5 
+{ 
+	 left: 1309px; 
+	 top: 3301px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 141px;
+	 z-index:20;
+} 
+
+ #layer_5 
+{ 
+	 left: 535px; 
+	 top: 3099px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:21;
+} 
+
+ #layer_14887640061543238901 
+{ 
+	 left: 1064px; 
+	 top: 3211px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:22;
+} 
+
+ #ig5 
+{ 
+	 left: 1005px; 
+	 top: 3211px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:23;
+} 
+
+ #facebookblacksocialb 
+{ 
+	 left: 947px; 
+	 top: 3211px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:24;
+} 
+
+ #Rectangle245 
+{ 
+	 left: 38px; 
+	 top: 3062px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 199px;
+	 z-index:25;
+} 
+
+ #Rectangle255 
+{ 
+	 left: 948px; 
+	 top: 3300px; 
+	 position: absolute; 
+	 width: 241px;
+	 height: 62px;
+	 z-index:26;
+} 
+
+ #Layer15055 
+{ 
+	 left: 966px; 
+	 top: 3313px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 36px;
+	 z-index:27;
+} 
+
+ #DONATE5 
+{ 
+	 left: 1029px; 
+	 top: 3319px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 23px;
+	 z-index:28;
+} 
+
+ #Rectangle25copy5 
+{ 
+	 left: 948px; 
+	 top: 3390px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 53px;
+	 z-index:29;
+} 
+
+ #HOWTOSUBMIT5 
+{ 
+	 left: 959px; 
+	 top: 3408px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 19px;
+	 z-index:30;
+} 
+
+ #Rectangle265 
+{ 
+	 left: 1169px; 
+	 top: 3491px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 59px;
+	 z-index:31;
+} 
+
+ #KUNSTTECH20205 
+{ 
+	 left: 1205px; 
+	 top: 3505px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 8px;
+	 z-index:32;
+} 
+
+ #layer_5_0 
+{ 
+	 left: 1193px; 
+	 top: 3505px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 8px;
+	 z-index:33;
+} 
+
+ #ARMENIA5 
+{ 
+	 left: 34px; 
+	 top: 3301px; 
+	 position: absolute; 
+	 width: 633px;
+	 height: 211px;
+	 z-index:34;
+} 
+
+ #LOGO 
+{ 
+	 left: 53px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 47px;
+	 z-index:35;
+} 
+
+ #sponsors9 
+{ 
+	 left: 899px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 11px;
+	 z-index:36;
+} 
+
+ #statute9 
+{ 
+	 left: 691px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 10px;
+	 z-index:37;
+} 
+
+ #Rectangle289 
+{ 
+	 left: 753px; 
+	 top: 78px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:38;
+} 
+
+ #press9 
+{ 
+	 left: 985px; 
+	 top: 92px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 11px;
+	 z-index:39;
+} 
+
+ #aboutus9 
+{ 
+	 left: 1044px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 12px;
+	 z-index:40;
+} 
+
+ #archive9 
+{ 
+	 left: 1128px; 
+	 top: 87px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 12px;
+	 z-index:41;
+} 
+
+ #Shape19 
+{ 
+	 left: 1031px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:42;
+} 
+
+ #Shape1copy49 
+{ 
+	 left: 886px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:43;
+} 
+
+ #Shape1copy59 
+{ 
+	 left: 752px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:44;
+} 
+
+ #Shape1copy9 
+{ 
+	 left: 972px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:45;
+} 
+
+ #Shape1copy29 
+{ 
+	 left: 1115px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:46;
+} 
+
+ #Shape1copy39 
+{ 
+	 left: 1187px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:47;
+} 
+
+ #RoundedRectangle19 
+{ 
+	 left: 1239px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 19px;
+	 z-index:48;
+} 
+
+ #ARM9 
+{ 
+	 left: 1247px; 
+	 top: 73px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 13px;
+	 z-index:49;
+} 
+
+ #salesexhibition9 
+{ 
+	 left: 765px; 
+	 top: 87px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 11px;
+	 z-index:50;
+} 

@@ -18,12 +18,13 @@
 
  #Rectangle1copy2 
 { 
-	 left: 1076px; 
-	 top: 327px; 
-	 position: absolute; 
-	 width: 469px;
-	 height: 644px;
-	 z-index:1;
+	left: 0px;
+    top: 329px;
+    position: absolute;
+    width: 1080px;
+    height: 641px;
+    z-index: 15;
+	
 } 
 
  #programme 

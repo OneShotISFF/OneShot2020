@@ -1,6 +1,3 @@
-.c-te__chat {
-    display: none;
-}
 
  body {
 	margin: 0;
@@ -22,7 +19,7 @@
 
  #Rectangle1copy2 
 { 
-	left: 5px;
+	left: 0px;
     top: 329px;
     position: absolute;
     width: 1080px;

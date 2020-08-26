@@ -1,0 +1,647 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1350px;
+	 height: 2043px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1350px;
+	 height: 2043px;
+	 z-index:1;
+} 
+
+ #Shape2 
+{ 
+	 left: 178px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 520px;
+	 height: 5px;
+	 z-index:2;
+} 
+
+ #Shape2copy 
+{ 
+	 left: 843px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 5px;
+	 z-index:3;
+} 
+
+ #layer_4 
+{ 
+	 left: 194px; 
+	 top: 256px; 
+	 position: absolute; 
+	 width: 927px;
+	 height: 36px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 179px; 
+	 top: 450px; 
+	 position: absolute; 
+	 width: 427px;
+	 height: 82px;
+	 z-index:5;
+} 
+
+ #layer_6 
+{ 
+	 left: 180px; 
+	 top: 1109px; 
+	 position: absolute; 
+	 width: 426px;
+	 height: 82px;
+	 z-index:6;
+} 
+
+ #Artboard112x 
+{ 
+	 left: 1193px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 71px;
+	 z-index:7;
+} 
+
+ #Artboard122x 
+{ 
+	 left: 1109px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 71px;
+	 z-index:8;
+} 
+
+ #Artboard132x 
+{ 
+	 left: 765px; 
+	 top: 1270px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 93px;
+	 z-index:9;
+} 
+
+ #Artboard142x 
+{ 
+	 left: 1025px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 71px;
+	 z-index:10;
+} 
+
+ #Artboard22x 
+{ 
+	 left: 667px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 71px;
+	 z-index:11;
+} 
+
+ #Artboard42x 
+{ 
+	 left: 940px; 
+	 top: 1286px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 61px;
+	 z-index:12;
+} 
+
+ #Artboard82x 
+{ 
+	 left: 846px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 71px;
+	 z-index:13;
+} 
+
+ #Artboard102x 
+{ 
+	 left: 887px; 
+	 top: 1199px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 60px;
+	 z-index:14;
+} 
+
+ #Artboard32x 
+{ 
+	 left: 687px; 
+	 top: 1200px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 58px;
+	 z-index:15;
+} 
+
+ #Artboard52x 
+{ 
+	 left: 1115px; 
+	 top: 1199px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 60px;
+	 z-index:16;
+} 
+
+ #Artboard62x 
+{ 
+	 left: 1036px; 
+	 top: 1100px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 76px;
+	 z-index:17;
+} 
+
+ #Artboard72x 
+{ 
+	 left: 886px; 
+	 top: 1108px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 61px;
+	 z-index:18;
+} 
+
+ #Artboard92x 
+{ 
+	 left: 743px; 
+	 top: 1109px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 59px;
+	 z-index:19;
+} 
+
+ #Artboard152x 
+{ 
+	 left: 904px; 
+	 top: 718px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 119px;
+	 z-index:20;
+} 
+
+ #Artboard162x 
+{ 
+	 left: 957px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 169px;
+	 z-index:21;
+} 
+
+ #Artboard172x 
+{ 
+	 left: 684px; 
+	 top: 446px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 132px;
+	 z-index:22;
+} 
+
+ #Artboard182x 
+{ 
+	 left: 643px; 
+	 top: 653px; 
+	 position: absolute; 
+	 width: 311px;
+	 height: 124px;
+	 z-index:23;
+} 
+
+ #oneshotcopy 
+{ 
+	 left: 0px; 
+	 top: 1494px; 
+	 position: absolute; 
+	 width: 1350px;
+	 height: 549px;
+	 z-index:24;
+} 
+
+ #layer_13 
+{ 
+	 left: 51px; 
+	 top: 1795px; 
+	 position: absolute; 
+	 width: 633px;
+	 height: 211px;
+	 z-index:25;
+} 
+
+ #layer_26 
+{ 
+	 left: 703px; 
+	 top: 1801px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 16px;
+	 z-index:26;
+} 
+
+ #layer_27 
+{ 
+	 left: 703px; 
+	 top: 1827px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 18px;
+	 z-index:27;
+} 
+
+ #layer_28 
+{ 
+	 left: 703px; 
+	 top: 1856px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 17px;
+	 z-index:28;
+} 
+
+ #layer_29 
+{ 
+	 left: 703px; 
+	 top: 1883px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 17px;
+	 z-index:29;
+} 
+
+ #layer_30 
+{ 
+	 left: 703px; 
+	 top: 1910px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 17px;
+	 z-index:30;
+} 
+
+ #layer_31 
+{ 
+	 left: 703px; 
+	 top: 1937px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 17px;
+	 z-index:31;
+} 
+
+ #layer_32 
+{ 
+	 left: 703px; 
+	 top: 1964px; 
+	 position: absolute; 
+	 width: 192px;
+	 height: 16px;
+	 z-index:32;
+} 
+
+ #layer_33 
+{ 
+	 left: 703px; 
+	 top: 1991px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 16px;
+	 z-index:33;
+} 
+
+ #layer_34 
+{ 
+	 left: 1332px; 
+	 top: 1671px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 239px;
+	 z-index:34;
+} 
+
+ #layer_35 
+{ 
+	 left: 553px; 
+	 top: 1594px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:35;
+} 
+
+ #layer_14887640061543238901 
+{ 
+	 left: 1082px; 
+	 top: 1706px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:36;
+} 
+
+ #ig 
+{ 
+	 left: 1023px; 
+	 top: 1706px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:37;
+} 
+
+ #facebookblacksocialb 
+{ 
+	 left: 965px; 
+	 top: 1706px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:38;
+} 
+
+ #Rectangle24 
+{ 
+	 left: 56px; 
+	 top: 1557px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 199px;
+	 z-index:39;
+} 
+
+ #Rectangle25 
+{ 
+	 left: 966px; 
+	 top: 1795px; 
+	 position: absolute; 
+	 width: 241px;
+	 height: 63px;
+	 z-index:40;
+} 
+
+ #Layer1 
+{ 
+	 left: 984px; 
+	 top: 1808px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 36px;
+	 z-index:41;
+} 
+
+ #layer_42 
+{ 
+	 left: 1034px; 
+	 top: 1817px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 19px;
+	 z-index:42;
+} 
+
+ #Rectangle25copy 
+{ 
+	 left: 966px; 
+	 top: 1876px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 63px;
+	 z-index:43;
+} 
+
+ #layer_44 
+{ 
+	 left: 984px; 
+	 top: 1899px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 18px;
+	 z-index:44;
+} 
+
+ #Rectangle26 
+{ 
+	 left: 1187px; 
+	 top: 1986px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 60px;
+	 z-index:45;
+} 
+
+ #KUNSTTECH2020 
+{ 
+	 left: 1223px; 
+	 top: 2000px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 8px;
+	 z-index:46;
+} 
+
+ #layer_47 
+{ 
+	 left: 1211px; 
+	 top: 2000px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 8px;
+	 z-index:47;
+} 
+
+ #LOGO 
+{ 
+	 left: 53px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 47px;
+	 z-index:48;
+} 
+
+ #layer_49 
+{ 
+	 left: 812px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 15px;
+	 z-index:49;
+} 
+
+ #layer_50 
+{ 
+	 left: 449px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 15px;
+	 z-index:50;
+} 
+
+ #Rectangle28 
+{ 
+	 left: 599px; 
+	 top: 96px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:51;
+} 
+
+ #layer_52 
+{ 
+	 left: 954px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 15px;
+	 z-index:52;
+} 
+
+ #layer_53 
+{ 
+	 left: 1027px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 15px;
+	 z-index:53;
+} 
+
+ #layer_54 
+{ 
+	 left: 1130px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 15px;
+	 z-index:54;
+} 
+
+ #Shape1 
+{ 
+	 left: 1016px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:55;
+} 
+
+ #Shape1copy4 
+{ 
+	 left: 798px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:56;
+} 
+
+ #Shape1copy5 
+{ 
+	 left: 598px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:57;
+} 
+
+ #Shape1copy 
+{ 
+	 left: 942px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:58;
+} 
+
+ #Shape1copy2 
+{ 
+	 left: 1117px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:59;
+} 
+
+ #Shape1copy3 
+{ 
+	 left: 1190px; 
+	 top: 76px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 42px;
+	 z-index:60;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 1242px; 
+	 top: 89px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 19px;
+	 z-index:61;
+} 
+
+ #ENG 
+{ 
+	 left: 1252px; 
+	 top: 92px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 13px;
+	 z-index:62;
+} 
+
+ #layer_63 
+{ 
+	 left: 611px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 14px;
+	 z-index:63;
+} 
